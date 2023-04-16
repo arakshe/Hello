@@ -1,0 +1,8 @@
+"C:\Program Files\jdk-14\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\lib\idea_rt.jar=55575:C:\Program Files\JetBrains\IntelliJ IDEA 2023.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\anand\IdeaProjects\Hello\out\production\Hello Main
+Hello and welcome!i = 1
+i = 2
+i = 3
+i = 4
+i = 5
+
+Process finished with exit code 0
